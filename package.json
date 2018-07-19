@@ -1,0 +1,15 @@
+{
+  "name": "Weblitehero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
